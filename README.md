@@ -1,2 +1,2 @@
-# Python-utilities
-Collecion of useful python programs 
+# Python Programs 
+Collecion of python programs 
