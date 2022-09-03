@@ -1,2 +1,2 @@
-name = input("Enter yout name : ") #Return Type of Raw input is always string 
+name = input("Enter yout name : ") 
 print("Hi "+name+"!")
